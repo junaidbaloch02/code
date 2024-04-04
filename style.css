@@ -90,10 +90,10 @@ margin: 0px;
 	width: 100%;
 }
 .car div:first-child img{
-	height: 45%;
+	height: 55%;
 }
 .car div:last-child img{
-	height: 45%;
+	height: 55%;
 }
 .car div{
 	overflow: hidden;
